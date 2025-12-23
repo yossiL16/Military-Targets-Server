@@ -1,28 +1,36 @@
 {
-    "targets" : [
-        {
-  "id": "t-102",
-  "codeName": "Iron Falcon",
-  "region": "north",
-  "priority": 4,
-  "status": "new",
-  "createdAt": "2025-12-21T09:30:00.000Z"
-}, 
-{
-  "id": "x-106",
-  "codeName": "boom boom",
-  "region": "center",
-  "priority": 5,
-  "status": "completed",
-  "createdAt": "2025-12-21T09:49:00.000Z"
-}, {
-  "id": "b-606",
-  "codeName": "mercedes",
-  "region": "unknown",
-  "priority": 2,
-  "status": "in_progress",
-  "createdAt": "2025-12-21T09:00:03.000Z"
-}
-
-    ]
+  "targets": [
+    {
+      "id": "t-102",
+      "codeName": "Iron Falcon",
+      "region": "north",
+      "priority": 4,
+      "status": "new",
+      "createdAt": "2025-12-21T09:30:00.000Z"
+    },
+    {
+      "id": "x-106",
+      "codeName": "boom boom",
+      "region": "center",
+      "priority": 5,
+      "status": "completed",
+      "createdAt": "2025-12-21T09:49:00.000Z"
+    },
+    {
+      "id": "b-606",
+      "codeName": "mercedes",
+      "region": "unknown",
+      "priority": 2,
+      "status": "in_progress",
+      "createdAt": "2025-12-21T09:00:03.000Z"
+    },
+    {
+      "id": "t-104",
+      "codeName": "bibi netanyau",
+      "region": "north",
+      "priority": 5,
+      "status": "new",
+      "createdAt": "2025-12-21T09:30:00.000Z"
+    }
+  ]
 }
